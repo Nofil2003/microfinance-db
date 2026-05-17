@@ -11,6 +11,6 @@ A natural language to SQL chatbot for a microfinance database, built with Gradio
 
 ## Gradio UI
 
-Live demo: *[link here]*
+Live demo: *[REMOVED FOR NOW]*
 
 > Link expires in ~1 week, after which the project will be discarded.
